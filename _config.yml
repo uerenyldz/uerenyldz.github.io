@@ -58,7 +58,7 @@ author:
       icon: "fa fa-envelope"
       url: "mailto:uerenyldz@gmail.com"
     - label: "Instagram"
-      icon: "fa fa-instagram" aria-hidden="true"
+      icon: "fab fa-instagram"
       url: "https://www.instagram.com/uerenyldz/"
 
 
