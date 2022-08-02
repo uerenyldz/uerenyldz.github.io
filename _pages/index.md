@@ -9,10 +9,4 @@ lang: en
 lang-ref: index
 ---
 
-I'm a second year PhD student at University of Maryland, College Park Computer
-Science Department.
-
-I work with Leonidas Lampropoulos on the intersection of Property Based Testing,
-Fuzzing and Formal Verification.
-
-We are using Programming Languages techniques to advance testing and verification of software artifacts.
+I'm a senior year student at METU.
