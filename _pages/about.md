@@ -9,3 +9,4 @@ permalink: :basename
 ---
 
 
+Hi, my name is Eren, and you are reading my blog.
