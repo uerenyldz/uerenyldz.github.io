@@ -18,21 +18,57 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Umut Eren Yıldız
+email: uerenyldz@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://uerenyldz.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 1960_eren
+github_username:  uerenyldz
 
 # Build settings
-theme: minima
+include: ["_pages", "_pages/en"]
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+
+search: true
+
+
+author_profile: true
+author:
+  name     : "Umut Eren Yıldız"
+  avatar   : "/assets/images/photo.png"
+
+  location : "Ankara, Turkey"
+  links:  
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/1960_eren"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/uerenyldz"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/umut-eren-y%C4%B1ld%C4%B1z-9852b0191/"
+    - label: "Medium"
+      icon: "fab fa-fw fa-medium"
+      url: "https://medium.com/@uerenyldz.1960"
+    - label: "Mail"
+      icon: "fa fa-envelope"
+      url: "mailto:uerenyldz@gmail.com"
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://www.instagram.com/uerenyldz/"
+
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
