@@ -2,10 +2,7 @@
 main:
   - title: "Blog"
     url: https://medium.com/@uerenyldz.1960
-    icon: icon: "fa-brands fa-blogger"
   - title: "About"
     url: /about
-    icon: "fa-solid fa-question"
   - title: "CV"
     url: /Umut Eren Yıldız CV_220803_010244
-    icon: "fa-solid fa-page"
