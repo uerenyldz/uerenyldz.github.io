@@ -11,12 +11,12 @@ main:
     url: /Umut Eren Yıldız CV_220803_010244
 
 links:  
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/1960_eren"
-    - label: "GitHub"
+    - label: "Blog"
+      icon: "fa-brands fa-blogger"
+      url: "https://medium.com/@uerenyldz.1960"
+    - label: "About"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/uerenyldz"
-    - label: "Linkedin"
+    - label: "CV"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/umut-eren-y%C4%B1ld%C4%B1z-9852b0191/"
