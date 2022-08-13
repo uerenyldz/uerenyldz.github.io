@@ -6,6 +6,7 @@ classes: wide
 lang: en
 lang-ref: about
 permalink: :basename
+url : https://medium.com/@uerenyldz.1960
 ---
 
 
