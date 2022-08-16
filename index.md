@@ -19,6 +19,6 @@ You can reach my works and my posts from the "Blog" directory.
 
 Orta doğu Teknik Üniversitesi'nde son sınıf maden mühendisliği öğrencisiyim.
 
-Şuanda Manisa, Türkiye'de Meta Nikel A.Ş. cevher hazırlama tesisinde stajyer olarak çalışmaktayım.
+Şuanda Manisa, Türkiye'de Meta Nikel Kobalt A.Ş. cevher hazırlama tesisinde stajyer olarak çalışmaktayım.
 
 Çalışmalarıma ve yazılarıma "Blog" kısmından ulaşabilirsiniz.
