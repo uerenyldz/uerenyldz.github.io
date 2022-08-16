@@ -9,6 +9,4 @@ main:
   - title: en
     url: _pages
   - title: tr
-    url: _pages/tr/about.md
-    url: _pages/tr/cv.md
-    url: _pages/tr/index.md
+    url: _pages1
