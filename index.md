@@ -13,7 +13,7 @@ I am currently working at Meta Nickel Cobalt I.C. as an intern at the Mineral Pr
 
 You can reach my works and my posts from the "Blog" directory. 
 
-                      ---
+                                        ~~---~~
                       
 **Hoşgeldiniz!**
 
