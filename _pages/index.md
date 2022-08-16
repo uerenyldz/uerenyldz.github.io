@@ -9,7 +9,6 @@ lang: en
 lang-ref: index
 ---
 
-**Hoşgeldiniz!**
 
 I’m a Senior Mining Engineer Student at Middle East Technical University.
 
