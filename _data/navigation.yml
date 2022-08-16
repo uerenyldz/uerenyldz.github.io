@@ -6,3 +6,7 @@ main:
     url: /about
   - title: "CV"
     url: assets/cv.jpg
+  - title: en
+    url: _pages
+  - title: tr
+    url: _pages/tr
