@@ -12,3 +12,13 @@ I'm a Senior Mining Engineer Student at Middle East Technical University.
 I am currently working at Meta Nickel Cobalt I.C. as an intern at the Mineral Processing Facility in Manisa, Turkey. 
 
 You can reach my works and my posts from the "Blog" directory. 
+
+                      **---**
+                      
+**title: Hoşgeldiniz!**
+
+Orta doğu Teknik Üniversitesi'nde son sınıf maden mühendisliği öğrencisiyim.
+
+Şuanda Manisa, Türkiye'de Meta Nikel A.Ş. cevher hazırlama tesisinde stajyer olarak çalışmaktayım.
+
+Çalışmalarıma ve yazılarıma "Blog" kısmından ulaşabilirsiniz.
