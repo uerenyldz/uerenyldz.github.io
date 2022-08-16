@@ -9,4 +9,6 @@ title: Welcome!
 
 I'm a Senior Mining Engineer Student at Middle East Technical University.
 
-I am currently working at Meta Nikel Kobalt A.Ş. as an intern in Manisa, Turkey.
+I am currently working at Meta Nickel Cobalt I.C. as an intern at the Mineral Processing Facility in Manisa, Turkey. 
+
+You can reach my works and my posts from the "Blog" directory. 
