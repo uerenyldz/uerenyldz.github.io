@@ -10,7 +10,7 @@ lang-ref: index
 ---
 
 
-I’m a Senior Mining Engineer Student at Middle East Technical University.
+I’m a Senior Mining Engineering Student at Middle East Technical University.
 
 I am currently working at Meta Nickel Cobalt I.C. as an intern at the Mineral Processing Facility in Manisa, Turkey.
 
