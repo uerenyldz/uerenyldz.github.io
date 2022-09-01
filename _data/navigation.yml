@@ -5,6 +5,6 @@ main:
   - title: "About"
     url: /about
   - title: "CV"
-    url: assets/cv.pdf
+    url: assets/cv.jpg
   - title: tr
     url: _pages1
