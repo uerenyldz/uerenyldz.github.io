@@ -34,7 +34,7 @@ Orta doğu Teknik Üniversitesi'nde son sınıf maden mühendisliği öğrencisi
         {% for lang in site.languageNames %}
         {% if lang[0] == site.lang %} {% continue %} {% endif %}
         {% if page.namespace %}
-        <a href="{% tl {{ page.namespace }} {{ lang[0] }} %}">{{ lang[1] }}</a>
+        <a href="{% {{ page.namespace }} {{ lang[0] }} %}">{{ lang[1] }}</a>
         {% else %}
         <a href="{{ site.baseurl_root }}/{{ lang[0] }}/">{{ lang[1] }}</a>
         {% endif %}
