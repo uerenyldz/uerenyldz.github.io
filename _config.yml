@@ -68,12 +68,6 @@ author:
 
 
 
-languages: ["en", "tr"]
-exclude_from_localizations: ["assets", "CNAME"]
-defaultLang: en
-languageNames:
-  tr: Türkçe
-  en: English
 
 # Exclude from processing.
 # The following items will not be processed, by default.
