@@ -22,23 +22,3 @@ Orta doğu Teknik Üniversitesi'nde son sınıf maden mühendisliği öğrencisi
 Şuanda Manisa, Türkiye'de Meta Nikel Kobalt A.Ş. cevher hazırlama tesisinde stajyer olarak çalışmaktayım.
 
 Çalışmalarıma ve yazılarıma "Blog" kısmından ulaşabilirsiniz.
-
-
-<!DOCTYPE html>
-<html lang="{{ site.lang }}">
-<head>...</head>
-<body>
-    ...
-    <footer>
-        <a class="active" href="#">{{ site.languageNames[site.lang] }}</a>
-        {% for lang in site.languageNames %}
-        {% if lang[0] == site.lang %} {% continue %} {% endif %}
-        {% if page.namespace %}
-        <a href="{% tl {{ page.namespace }} {{ lang[0] }} %}">{{ lang[1] }}</a>
-        {% else %}
-        <a href="{{ site.baseurl_root }}/{{ lang[0] }}/">{{ lang[1] }}</a>
-        {% endif %}
-        {% endfor %}
-    </footer>
-</body>
-</html>
