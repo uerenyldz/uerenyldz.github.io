@@ -8,3 +8,5 @@ main:
     url: assets/cv.pdf
   - title: tr
     url: _pages1
+  - title: "Posts"
+    url: _post
