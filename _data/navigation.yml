@@ -2,6 +2,8 @@
 main:
   - title: "Blog"
     url: https://medium.com/@uerenyldz.1960
+  - title: "Post"
+    url: _posts
   - title: "About"
     url: /about
   - title: "CV"
