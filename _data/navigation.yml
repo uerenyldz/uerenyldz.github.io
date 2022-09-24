@@ -2,11 +2,11 @@
 main:
   - title: "Blog"
     url: https://medium.com/@uerenyldz.1960
+  - title: "Post"
+    url: _posts
   - title: "About"
     url: /about
   - title: "CV"
     url: assets/cv.pdf
   - title: tr
     url: _pages1
-  - title: "Posts"
-    url: readme.markdown
